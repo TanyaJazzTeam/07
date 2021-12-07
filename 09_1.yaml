@@ -8,5 +8,6 @@ my:
        - flour
       cream:
         - sugar
+        - luk
         - milk
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
